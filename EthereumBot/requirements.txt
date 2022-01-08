@@ -1,0 +1,5 @@
+websocket
+json
+pprint
+talib
+numpy
